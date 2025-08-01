@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=MERN+Stack+Developer+🔥;DSA+Lover+💫;Generative+AI+Learner+🧖‍♂️;System+Design+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=MERN+Stack+Developer+%F0%9F%94%A5;Mastering+Data+Structures+%26+Algorithms+%F0%9F%92%AB;Generative+AI+Learner+%F0%9F%A7%96%E2%99%82%EF%B8%8F;System+Design+Explorer" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naman-ptdr&label=Profile%20views&color=0e75b6&style=flat" alt="naman-ptdr" />
