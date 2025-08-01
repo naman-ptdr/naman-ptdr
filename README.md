@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=MERN+Stack+Developer+%F0%9F%94%A5;Mastering+Data+Structures+%26+Algorithms+%F0%9F%92%AB;Generative+AI+Learner+%F0%9F%A7%96%E2%99%82%EF%B8%8F;System+Design+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&pause=1000&center=true&width=500&lines=MERN%20Stack%20Developer;Mastering%20DSA;Generative%20AI%20Learner;System%20Design%20Explorer" alt="Typing SVG" />
 </p>
+
+
+
+
 
 
 <p align="center">
@@ -82,7 +86,7 @@ Hey there! I'm Naman, a passionate and curious developer who enjoys building end
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/naman-patidar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/naman-patidar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Naman_ptdar/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/namanpatidar/)  
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/namanpatidar)
