@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Java+Full+Stack+Developer;DSA+Lover+💫;Generative+AI+Learner+🧖‍♂️;System+Design+Explorer;MERN+Stack+Developer+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=MERN+Stack+Developer+🔥;DSA+Lover+💫;Generative+AI+Learner+🧖‍♂️;System+Design+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 Hey there! I'm Naman, a passionate and curious developer who enjoys building end-to-end web applications that solve real-world problems. I love working on ideas that combine clean UI, solid backend logic, and smart integrations with AI & APIs.
 
 - ✨ Currently pursuing MCA from **NIT Raipur**
-- 📊 Sharpening my skills in **System Design**, **Generative AI**, **Computer Networks**, and **Advanced DSA**
+- 📊 Sharpening my skills in **System Design**, **Generative AI**, and **Advanced DSA**
 - 🌟 Actively developing full-stack projects using **MERN stack**
 - 🔍 Exploring scalable and production-ready app development
 - 🎓 Always open to learning and contributing to meaningful tech projects
@@ -48,7 +48,7 @@ Hey there! I'm Naman, a passionate and curious developer who enjoys building end
 **Frontend:** HTML, CSS, React.js, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, SQL  
-**Dev Tools:** Git, GitHub, Postman, Vercel  
+**Dev Tools:** Git, GitHub, Postman, Vercel, firebase
 **CS Fundamentals:** Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, OOPs
 
 ---
@@ -81,7 +81,7 @@ Hey there! I'm Naman, a passionate and curious developer who enjoys building end
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/naman-patidar)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Naman_ptdar/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/namanpatidar/)  
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/namanpatidar)
